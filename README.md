@@ -1,6 +1,9 @@
 # Online-Class-Joiner-Python
 
 # Requirements
+1. Python 3(This is purely coded in python)
+2. Excel/Any software that can edit .xlsx files 
+3. Pandas Library in python- You can do this by going to your terminal and writing 'pip install pandas' on windows and 'pip3 install pandas' on mac or you could download it <a href = "https://pandas.pydata.org/"><a/>. If you are unable to install it with pip watch <a href = "https://www.youtube.com/watch?v=RvbUqf3Tb1s">this</a> video (Credits to Tech With Tim'.
 
 # What it does
 Ever since lockdown started, joining my online classes was quite a trouble. This is because I had to first download my timetable, then find out what class I have, then join that link, then type the password. I had to do this 3 times a day 6 days a week this monotonous process normally took me more than a minute, inevitably joining class late. This beautiful piece of code helps you join class almost effortlessly. 
