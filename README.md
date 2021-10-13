@@ -15,7 +15,7 @@ Ever since lockdown started, joining my online classes was quite a trouble. This
 4. Opens up links on your default browser
 
 # Installation and how to run
-1. To download it, you can clone the repository or download the zip or click on this link <a href = "https://github.com/Isct123/Online-Class-Joiner-Python/archive/refs/heads/main.zip"></a>
+1. To download it, you can clone the repository or download the zip or click on <a href = "https://github.com/Isct123/Online-Class-Joiner-Python/archive/refs/heads/main.zip">this</a> link 
 2. Unzip the file
 3. Run the file called 'main.py'
 
